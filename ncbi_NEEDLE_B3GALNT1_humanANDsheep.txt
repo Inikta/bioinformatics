@@ -1,0 +1,145 @@
+########################################
+# Program: needle
+# Rundate: Wed  3 Apr 2024 15:46:58
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20240403-154643-0819-92798112-p1m.asequence
+#    -bsequence emboss_needle-I20240403-154643-0819-92798112-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: c161105349-161083883
+# 2: 227035060-227066327
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 1298
+# Identity:     744/1298 (57.3%)
+# Similarity:   744/1298 (57.3%)
+# Gaps:         356/1298 (27.4%)
+# Score: 2183.0
+# 
+#
+#=======================================
+
+c161105349-16      1 GTGGTCTGCGCGCGCCCGGCCGTGCGTGCGGATGCGGGGAGGCTGCGTGT     50
+                                                                       
+227035060-227      1 --------------------------------------------------      0
+
+c161105349-16     51 GTGCGCAGGGAGAGAACGCCGGCCACCTTCCCGCTTCCGAGCTGGGTGCG    100
+                                 ||..|||||    ||..|||||.||.||||.|||||||
+227035060-227      1 ------------AGTCCGCCG----CCCGCCCGCATCGGAGCAGGGTGCG     34
+
+c161105349-16    101 CGCCGAGCACAGGAGGTGAGTGAG---AAGGGC----------------G    131
+                     ||||..||.|.||||||.||||.|   |.||||                .
+227035060-227     35 CGCCCTGCGCGGGAGGTAAGTGTGGGCACGGGCTCTAGGGAGGTGCGGAA     84
+
+c161105349-16    132 GCCCTGCAGGG-------------------TCTCCGAGGCGGTTGAGTCC    162
+                     |||.||.||.|                   ||.|||    |||||.|   
+227035060-227     85 GCCTTGGAGAGCCCACCTCACCGCCCCCACTCCCCG----GGTTGGG---    127
+
+c161105349-16    163 TGCC--ACTGGGTGGAGGGTATAGCCACCGGACCCG--CCTTTCCCGGAA    208
+                     ||.|  .||||||||.|||..|.|||...||.||||  ||||  |||...
+227035060-227    128 TGGCGGGCTGGGTGGCGGGCGTGGCCCTAGGGCCCGCTCCTT--CCGCGC    175
+
+c161105349-16    209 CGCGCCGTCCTC--GGAAACGCCTA----GACCCCGGCAGCTAGGCCGGG    252
+                     ||||||.||.||  |||     |||    |.||..|||.|||.|||||||
+227035060-227    176 CGCGCCCTCTTCAGGGA-----CTACCCGGGCCGGGGCGGCTCGGCCGGG    220
+
+c161105349-16    253 AGGC------------ACCGCCCACTCCTCTAGAG---------CGGAGC    281
+                     ||||            .|||||.|||||||   ||         ||||||
+227035060-227    221 AGGCGGGCAGGGCGGTGCCGCCTACTCCTC---AGGCCCTCTCCCGGAGC    267
+
+c161105349-16    282 GTGGCCCAGGTTGAGCC-------GCCGCACCGTGGGTCTCGGGTCTCGG    324
+                     |.|||...|||.||.||       ||||..||.||||.|||.||.|||.|
+227035060-227    268 GCGGCTGGGGTGGAACCGCGATCAGCCGGGCCCTGGGGCTCTGGCCTCCG    317
+
+c161105349-16    325 TGACGAGCAGCTGCCCGCCTCC-GGTGAGCGCGGGAGAAGGGGCCCAGTG    373
+                     .||.|..||||||||  ||.|| |||||||||||||||.|||||||.|||
+227035060-227    318 CGATGTTCAGCTGCC--CCACCAGGTGAGCGCGGGAGATGGGGCCCCGTG    365
+
+c161105349-16    374 GGGCAGTGGGCGA---CGCGGAGGGCCCAGGC------------CCAGGC    408
+                     ||||.||||||||   |||||||.| ||.|||            ||||||
+227035060-227    366 GGGCTGTGGGCGACATCGCGGAGCG-CCGGGCTGCGTGGTGGGGCCAGGC    414
+
+c161105349-16    409 CGCGGC-----CGCGCCGCATCCGCTGGTTGTCCACCTTGCCTTGCCCCA    453
+                     ||..||     .|.||     ||||    |||||.||.||.|..||||||
+227035060-227    415 CGAAGCTAGAAGGAGC-----CCGC----TGTCCTCCCTGACCCGCCCCA    455
+
+c161105349-16    454 GGGTGCA----ATACCTGCCTTGCGTCGCC-CGTGCCGCTCCAGCCACCG    498
+                     |||.|||    |..||.|||   ||||||| .|.||||||||.|    .|
+227035060-227    456 GGGCGCAACCCACCCCAGCC---CGTCGCCTTGGGCCGCTCCGG----TG    498
+
+c161105349-16    499 TCAAATCCGGGTAGCGACCCGGGG---CGTTTG--CAG-CGGTGCCGAGG    542
+                     .||.||....|.||| |.||||.|   ||||.|  ||| |||   ||.||
+227035060-227    499 GCACATTGTAGGAGC-AGCCGGTGGCTCGTTGGCCCAGTCGG---CGGGG    544
+
+c161105349-16    543 AAGAGGACGGGAACGGTGTTACGGTATTGGTGGG--CCCCTAACAGGCCT    590
+                     .||..|||||| ||||||||.||||    ||.||  .|||||.|.|||||
+227035060-227    545 GAGGAGACGGG-ACGGTGTTTCGGT----GTCGGATTCCCTAGCCGGCCT    589
+
+c161105349-16    591 GCGGCGAACGCTTT-----CCCGGAGCGCTAGGGAAGGGCCCCGGCGC--    633
+                     |.||..|     ||     |||.|| |.||.|||||||||||.||.||  
+227035060-227    590 GGGGTAA-----TTCATCGCCCAGA-CTCTGGGGAAGGGCCCAGGAGCCG    633
+
+c161105349-16    634 ---------AGGGATGTC--------GGAGGGATTGGGAAGGAATGTGAA    666
+                              ||||.||||        |||||||||||||| ||||.||.|
+227035060-227    634 AATTGTGGGAGGGTTGTCCCTCCTGGGGAGGGATTGGGAA-GAATATGGA    682
+
+c161105349-16    667 ACTAAGTGGGGAATGTGGAGAACGGGCG---------GAGAGAGAAGGAA    707
+                     .|||||..||  |||.|     ||||||         |||.|||.|||||
+227035060-227    683 CCTAAGAAGG--ATGGG-----CGGGCGAATTGGCCAGAGGGAGGAGGAA    725
+
+c161105349-16    708 ATCCCACGGGGCTAGGGCTACAGGATTCCT-ACAGGCAGTGTTAAGGAA-    755
+                     |.|.||.||||||.||||||...||||..| |.||||.|| ||.||.|| 
+227035060-227    726 ACCTCAAGGGGCTGGGGCTATGTGATTTTTAAGAGGCGGT-TTTAGCAAG    774
+
+c161105349-16    756 CATACAGGGCGTTTTAAAAAGATTCCTAG-AGGTGCAACGGAGTCTCACT    804
+                     |.||||.|.|.|||| |||.||..|||.| |||||.||.||||.||||||
+227035060-227    775 CCTACAAGTCATTTT-AAAGGAAACCTTGAAGGTGTAATGGAGCCTCACT    823
+
+c161105349-16    805 TTTCCAAGCAGTAAGGAATGATGCCATCCTCAAGTACGGGTAGTCTTTGA    854
+                     |||.|||||||||||.||||||.|||.|...|||.|.|.||||       
+227035060-227    824 TTTTCAAGCAGTAAGTAATGATACCAGCAGGAAGCAGGAGTAG-------    866
+
+c161105349-16    855 ATTCAGTATCCGTTCGCCTTCTTAATGTTGGA--------------TTTA    890
+                        ||.||  |||...|||||||..|.||..|              |.||
+227035060-227    867 ---CATTA--CGTAGTCCTTCTTTCTCTTCCACTTCTCGCTGCTTTTCTA    911
+
+c161105349-16    891 GGAGGGAGATTTGCAGGGCTTTCATGATTTTGTTTCCTCTGCGTTTTGCA    940
+                     |||||||.|||||||..||....|||.||||.||||||||          
+227035060-227    912 GGAGGGAAATTTGCAAAGCAGAGATGGTTTTCTTTCCTCT----------    951
+
+c161105349-16    941 CAGATTGCCT-GCGTTTAGGAGGTGGCTGCGTTGTGGGAAAAGCTATCAA    989
+                             || ||||||||.||||||||||.||||     .|||.| |||
+227035060-227    952 --------CTAGCGTTTAGAAGGTGGCTGCTTTGT-----CAGCCA-CAA    987
+
+c161105349-16    990 GGAAGAAATTGCCAAACCATGTCTTTT------TTTCTGTTTTCAGAGGT   1033
+                     |       |||       .|.||||||      |||||||.||.||||.|
+227035060-227    988 G-------TTG-------TTTTCTTTTTTTTTCTTTCTGTATTTAGAGTT   1023
+
+c161105349-16   1034 AAGGAAAATTTGGGTTTGCAGTGTTCAACTGGGAAC----AAGTTTTTTA   1079
+                     ||||||||||||.|||||||||..|||.||||||||    ..||.||||.
+227035060-227   1024 AAGGAAAATTTGAGTTTGCAGTCCTCAGCTGGGAACGGCTTCGTGTTTTG   1073
+
+c161105349-16   1080 GC------TTCTCCCAGGAGGCTTAAGCAAAAGAAGGGCGCTGAATT-   1120
+                     .|      ||| ||||||.||||||..||.|.|.||||.||.||.|| 
+227035060-227   1074 ACCCTTTTTTC-CCCAGGCGGCTTAGACAGAGGTAGGGAGCAGAGTTT   1120
+
+
+#---------------------------------------
+#---------------------------------------

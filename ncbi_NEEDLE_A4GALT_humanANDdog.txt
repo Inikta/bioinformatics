@@ -1,0 +1,149 @@
+########################################
+# Program: needle
+# Rundate: Wed  3 Apr 2024 15:36:51
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20240403-153640-0295-11694276-p1m.asequence
+#    -bsequence emboss_needle-I20240403-153640-0295-11694276-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 23497555-23521731
+# 2: c42721301-42692121
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 1326
+# Identity:     623/1326 (47.0%)
+# Similarity:   623/1326 (47.0%)
+# Gaps:         552/1326 (41.6%)
+# Score: 1235.0
+# 
+#
+#=======================================
+
+23497555-2352      1 -----------------------------------------CACTGCC--      7
+                                                              ||.||||  
+c42721301-426      1 AGCAAATAACTGGAATTCCGCAAACACTGGGGTGATGCAGGCAATGCCCT     50
+
+23497555-2352      8 --------TCCCGCC------------------GCCG-CCCGCCGGCCCC     30
+                             |||||.|                  |||| ||||  ||.|||
+c42721301-426     51 TAGCACGGTCCCGGCAGGAGGCGGTGGGATCAGGCCGACCCG--GGTCCC     98
+
+23497555-2352     31 GGAG----CAGC-TCGCC--CGCCGCCGCGG---AGCCGGAGGTAC-CGG     69
+                     .|.|    |||| || ||  |.||.|.||.|   |.|  ||||||| |  
+c42721301-426     99 AGGGGTGACAGCGTC-CCTTCTCCACTGCAGAATATC--GAGGTACTC--    143
+
+23497555-2352     70 GGAGCGCGC------------------GCAGGGCGAGGCGGG----CGGG     97
+                       |.|.|.|                  .|||..|.|.| |||    ||||
+c42721301-426    144 --AACCCTCTGAACCTCAGTTTTCTCATCAGTTCAATG-GGGAAAACGGG    190
+
+23497555-2352     98 --GG---CTCG------GGGCGCCGCGGGGGCGCGGGG-GCGCGCGGACC    135
+                       ||   |.||      .||||.|||||.||| ||||| ||||.|   ||
+c42721301-426    191 ATGGTAACCCGTAATACTGGCGGCGCGGAGGC-CGGGGAGCGCTC---CC    236
+
+23497555-2352    136 -ACCTGTT--CCGG------AGGGACCTCCGCGTGCGCACCGGCTGCTCC    176
+                      |||||||  ||||      .|||||     .||.||||||     |.||
+c42721301-426    237 TACCTGTTGGCCGGCGGACTGGGGAC-----TGTCCGCACC-----CGCC    276
+
+23497555-2352    177 CCGGCCACTGCGCCCCGAAGTTGAGCGCGGCGGCGGCGGGAC-CGGGAGC    225
+                     ||||    .|.||..|||    |.|||||..||||  |||.| ||||..|
+c42721301-426    277 CCGG----GGAGCAGCGA----GGGCGCGCGGGCG--GGGTCGCGGGGAC    316
+
+23497555-2352    226 CCAGCCCGGCC----GGGCCCGGGCCCGGC-------GCCGG--CGGAGG    262
+                     ||.||..||.|    |||.|||||.||.||       |.|||  |||..|
+c42721301-426    317 CCCGCAAGGGCTCTGGGGACCGGGACCCGCAGGGTAGGTCGGGACGGGCG    366
+
+23497555-2352    263 GGGCGGAGG-----------------GGGCGGGAGGCGCGGGGCCGAGAC    295
+                     |||||| ||                 ||||.|||||.||||.||  .|.|
+c42721301-426    367 GGGCGG-GGCGGCCTGACCCCGCCCCGGGCCGGAGGGGCGGTGC--TGCC    413
+
+23497555-2352    296 ACCCGCACGGC----------GACCTGGGGCGCGGCGCGCCGCTCG--CT    333
+                     .|||||..|||          |.|||..||| ||.||||||||.||  |.
+c42721301-426    414 TCCCGCCGGGCCCCAGGCACTGCCCTCCGGC-CGCCGCGCCGCCCGCCCG    462
+
+23497555-2352    334 CCGGGGCGCGGAGTCTCTCGAGAGGCCTCCCCGCC-CCGCT-GAGCT---    378
+                     |||||||.|.|   ||.||    .||| .|||||| ||||| |||||   
+c42721301-426    463 CCGGGGCCCCG---CTGTC----CGCC-GCCCGCCGCCGCTGGAGCTAGA    504
+
+23497555-2352    379 ---------CGCCGCGGGCCGGAGGGGGTGCGGCTGGGA--GGCGC----    413
+                              .|||||  |||   |..|.|||||  ||||  ||.||    
+c42721301-426    505 GGTACGAGGGGCCGC--GCC---GATGTTGCGG--GGGACGGGGGCTCCA    547
+
+23497555-2352    414 -GGGGA----GCGGCCCGCGGAGGGG-------GCCTGCGGGGCGGG-AG    450
+                      |||||    |||||.|||.|.||||       ||||      |||| ||
+c42721301-426    548 GGGGGATCCTGCGGCTCGCAGTGGGGAGGAGGCGCCT------CGGGAAG    591
+
+23497555-2352    451 GCGGCGGCCGGGGC---GGGGC-GGGGGGATGCCCAGGCCGGGTCGGGC-    495
+                     ||.|.|||.|||||   ||||| |||..|..||||..|||    ||||| 
+c42721301-426    592 GCAGGGGCAGGGGCGGAGGGGCTGGGCCGCCGCCCTAGCC----CGGGCC    637
+
+23497555-2352    496 -CCTG--CAGGTGGAGGCAAGGGCCTGGGTCCGAGCGC---CCCTTCTCA    539
+                      ||||  |   |||||||   |.|.|..||.||.||.|   |||..|.|.
+c42721301-426    638 ACCTGTTC---TGGAGGC---GACATTTGTGCGCGCACGAACCCCGCGCG    681
+
+23497555-2352    540 GCGGTGCCAGCCGCCGACGGCCGGTCCCCCC-----GCGCCTCGCTCCCT    584
+                     |||||.||.|||.|||.|      |||.|||     |||||.||      
+c42721301-426    682 GCGGTCCCGGCCACCGCC------TCCACCCCAACTGCGCCCCG------    719
+
+23497555-2352    585 CCCTGTCCTCCAGCTCGGAACCCTGAGCGGGAGCTGGATGTGCCGGGAGA    634
+                               .||  .|||     |.||||..||.|||    ||.|||  
+c42721301-426    720 ----------AAG--TGGA-----GCGCGGCGGCGGGA----CCCGGA--    746
+
+23497555-2352    635 GGCTGCGGCCC----------GAGGTG---GGCTCC-GAGTCCACTGCCC    670
+                      ||..||||||          ||.|.|   |||||| ||       ||||
+c42721301-426    747 -GCCCCGGCCCTCGCGGGCAGGACGCGCCTGGCTCCGGA-------GCCC    788
+
+23497555-2352    671 TTCACTGCGGGGGGAGGGGCTTGCCTCGGTTTCCCCATCTGACGCCG--T    718
+                     |      ||.|||.||                |||||      .|||  |
+c42721301-426    789 T------CGAGGGCAG----------------CCCCA------CCCGGTT    810
+
+23497555-2352    719 GGGATAGAAGTTCCCATCTCCTGGGCAGGTCAGCTGAGCCTTTGGC-TCT    767
+                     |||        ||      ||.||||.||..|   |||     ||| ||.
+c42721301-426    811 GGG--------TC------CCGGGGCTGGAGA---GAG-----GGCGTCG    838
+
+23497555-2352    768 GGGAGGGGTAAAAGCCGTCTGGCTGCACCCCCCCTCCCCCAGGAGGACAC    817
+                     |||||      ||||||   ||.|              |.|||      |
+c42721301-426    839 GGGAG------AAGCCG---GGTT--------------CGAGG------C    859
+
+23497555-2352    818 CGGCTCTGTCTCCCCGG--ATGCTGAGTGA-TGGCCTGCTCCTCGCAGGC    864
+                     .|||||||    |||||  |...||.|||| |.||  ||||||  |.|.|
+c42721301-426    860 AGGCTCTG----CCCGGCCACCGTGGGTGAGTCGC--GCTCCT--CCGTC    901
+
+23497555-2352    865 CCCTTGGGGGTCAAGCAGAAGCAGGGCG-CGGGTTGGCCAGACTACTCGG    913
+                     |    |||||  ||||     |.||||| ||||              |||
+c42721301-426    902 C----GGGGG--AAGC-----CTGGGCGTCGGG--------------CGG    926
+
+23497555-2352    914 TCCATACCTAGGTG----TGCG--CGAGTTCCCACAC--------AGAGG    949
+                     |.|...||..||.|    ||||  ||.|      .||        |||| 
+c42721301-426    927 TGCTCGCCCCGGAGCGGATGCGACCGGG------GACGGGGATGGAGAG-    969
+
+23497555-2352    950 TCCCCCG------GGGGACTCCCCCAGACT---------------GGCCT    978
+                      |..|||      ||||.|||..||.|.||               |||||
+c42721301-426    970 -CGGCCGGCAGGAGGGGGCTCTGCCGGGCTGGCAGCGTCGGCGCCGGCCT   1018
+
+23497555-2352    979 GAATACAAAAGAAAAGAAAAGGGAAGGCAAG---ATGGAATCCCCTGCTC   1025
+                                       .|||||.||..||   .||||    ||||   
+c42721301-426   1019 ------------------TAGGGAGGGTGAGGATTTGGA----CCTG---   1043
+
+23497555-2352   1026 ATCCTCCTCCCA-AACTTGCTCCTAG   1050
+                             |||| ||           
+c42721301-426   1044 --------CCCAGAA-----------   1050
+
+
+#---------------------------------------
+#---------------------------------------
