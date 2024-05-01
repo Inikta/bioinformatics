@@ -1,0 +1,20 @@
+Query: None Query ID: lcl|Query_5760911 Length: 11
+
+
+Query range 1: 1 to 11
+
+OY720449.1      69454791          AGCGCCGGCGCCGGTGCAGGAC  69454770		Harpalus rubripes	
+NM_019616.4     165                GCGCCGGCGCCGGTGCAGGAC  145			Homo Sapiens
+OY720278.1      9678237            GCGCCGGCGCCGGTGCAGGAC  9678257		Noctua comes	
+OX459126.1      17313937     GTTTTAGCGCCGGCGCCGGTG        17313917		Oldenlandia corymbosa var. corymbosa	
+XM_012843534.1  148                GCGCCGGCGCCGGTGCAGGAC  128			Setaria italica	
+OY978464.1      9576116           AGCGCCGGCGCCGGTGCAGG    9576097	  	Plagodis dolabraria	
+OY970831.1      48739345           GCGCCGGCGCCGGTGCAGGA   48739326		Calendula officinalis
+CP093450.1      3632191             CGCCGGCGCCGGTGCAGGAC  3632172		Xanthomonas translucens
+OX420931.1      54328090         TAGCGCCGGCGCCGGTGCAG     54328071		Polymixis lichenea
+OX415244.1      5716531             CGCCGGCGCCGGTGCAGGAC  5716512		Sherardia arvensis
+XM_063145592.1  1375      AGCGTTTTGGCGCCGGCGCCGGTG        1352			Elgaria multicarinata webbii
+
+
+
+
